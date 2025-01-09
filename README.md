@@ -1,1 +1,1 @@
-## Core Java AssignMents ##
+## Core Java Assignments ##
