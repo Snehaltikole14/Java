@@ -1,4 +1,4 @@
-## Core Java Assignments ##
+## Core  Assignments ##
 
 - **Lets program**
     - **Assignment - 01**
