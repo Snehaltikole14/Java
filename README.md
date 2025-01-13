@@ -4,8 +4,7 @@
     - **Assignment - 01**
         1. Write a program to get the following output. 
             
-      
-            Hey there, I am data!
+        Hey there, I am data!
 
             
     - **Assignment - 02**
